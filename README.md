@@ -12,3 +12,5 @@ A new Flutter project.
 ### Page Chat List
 ![Screenshot](./screenshot/2.png)
 
+
+<img src="./screenshot/2.png" width="100"/>
