@@ -7,10 +7,9 @@ A new Flutter project.
 ## Views
 
 ### Page Login
-![Screenshot](./screenshot/1.png)
+<img src="./screenshot/1.png" width="200"/>
 
 ### Page Chat List
-![Screenshot](./screenshot/2.png)
+<img src="./screenshot/2.png" width="200"/>
 
 
-<img src="./screenshot/2.png" width="100"/>
